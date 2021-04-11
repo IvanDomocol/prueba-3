@@ -1,9 +1,9 @@
 <devicedata>
   <version>1</version>
-  <manufacturer>Default Manufacturer</manufacturer>
-  <model>Default Model</model>
+  <manufacturer>ivan</manufacturer>
+  <model>ivan</model>
   <creator>Control4 (support@control4.com)</creator>
-  <name>Default Driver Name</name>
+  <name>ivan</name>
   <small>devices_sm/C4.gif</small>
   <large>devices_lg/C4.gif</large>
   <control>lua_gen</control>
